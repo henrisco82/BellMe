@@ -1,0 +1,7 @@
+{
+  "name": "BellMe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
